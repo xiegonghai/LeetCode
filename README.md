@@ -1,4 +1,5 @@
 # LeetCode
-# coding ability is important.
-##solution of Leetcode, coding usually can improve our thingking ability
+# Solution of Leetcode
+##Coding usually
+##Avoid automaticly
 
